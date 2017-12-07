@@ -12,16 +12,6 @@
 #include <string>
 #include <vector>
 
-/*
-
-ввод
-строка
-вектор
-сортировка 
-вывод
-
-
-*/
 using namespace std;
 
 
